@@ -1,4 +1,4 @@
-package Ejercicios.EjerciciosVarios;
+package Ejercicios.EjerciciosVarios.Persona;
 
 public class Gerente extends ClaseEmpleado {
   private double bono;

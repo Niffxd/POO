@@ -1,4 +1,4 @@
-package Ejercicios.EjerciciosVarios;
+package Ejercicios.EjerciciosVarios.Vehiculos;
 
 public class Motocicleta extends ClaseVehiculo {
   private String placa;

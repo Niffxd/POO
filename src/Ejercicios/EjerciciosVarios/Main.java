@@ -1,5 +1,7 @@
 package Ejercicios.EjerciciosVarios;
 
+import Ejercicios.EjerciciosVarios.Persona.ClasePersona;
+
 public class Main {
   public static void main(String[] args) {
     // Ejercicio 1:

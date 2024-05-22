@@ -44,7 +44,7 @@ public class Usuario {
         if(foundLibro.equals(libro)) {
           libro.setPrestado();
           librosPrestados.remove(libro);
-          System.out.println("El socio devolvió el libro prestado.");;
+          System.out.println("El socio devolvió el libro prestado.");
         } else {
           System.out.println("Este libro no fue tomado por este socio.");
         }

@@ -1,5 +1,7 @@
 package Ejercicios.EjerciciosVarios;
 
+import Ejercicios.EjerciciosVarios.Persona.ClasePersona;
+
 public class ClaseCuentaBancaria extends ClasePersona {
   private String titular;
   private double saldo;
